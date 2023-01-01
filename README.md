@@ -1,4 +1,4 @@
-# springbootdemo
+# Spring Boot Demo
 
 This is about building a Springboot application that connects to the frontend and is hosted on aws.
 
