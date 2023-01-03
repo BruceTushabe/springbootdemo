@@ -5,9 +5,7 @@ import { User } from '../model/user';
 
 import { Observable } from 'rxjs'
 
-@Injectable({
-  providedIn: 'root'
-})
+@Injectable()
 export class UserService {
 
   private usersUrl: string;
